@@ -1,0 +1,20 @@
+{
+  "name": "xingqiuapi",
+  "version": "1.0.0",
+  "description": "知识星球API调用模块",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zsxq",
+    "api",
+    "知识星球"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

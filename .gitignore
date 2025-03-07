@@ -1,0 +1,19 @@
+# 配置文件
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 環境文件
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp

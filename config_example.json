@@ -1,0 +1,25 @@
+{
+  "api": {
+    "baseUrl": "https://api.zsxq.com/v2",
+    "groupId": "YOUR_GROUP_ID",
+    "topicsPath": "/topics",
+    "defaultParams": {
+      "scope": "all",
+      "count": 20
+    }
+  },
+  "auth": {
+    "zsxq_access_token": "YOUR_ACCESS_TOKEN",
+    "zsxqsessionid": "YOUR_SESSION_ID"
+  },
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors"
+  }
+}

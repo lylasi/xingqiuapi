@@ -1,0 +1,164 @@
+主题ID：211841824884811
+标题：职场不可避免地会收到各种各样的...
+发布时间：2023-09-09T15:08:35.110+0800
+作者：Unknown
+评论数：0
+
+正文内容：
+{
+  "topic_id": 211841824884811,
+  "group": {
+    "group_id": 48844242882218,
+    "name": "体制纵横",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhTVs_1ttbUAVWp0z1p4bwu_SdDY?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yfjsxv7V5QlEtMcb1bA_fjo9Sq4="
+  },
+  "type": "q&a",
+  "question": {
+    "questionee": {
+      "user_id": 581211525821554,
+      "name": "海主任",
+      "avatar_url": "https://images.zsxq.com/FqT3Pw0mqka-m5X_iyWJixqt2Tu_?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PR-d16hj4HLC9DkpA_sArFVlP8k=",
+      "description": "《县府办主任》作者，十年秘书工作经验，镇县市三级工作经验，基层的困惑，或许我可以给你更好的答案！",
+      "location": "山东",
+      "ai_comment_url": "https://wx.zsxq.com/mweb/activities/2024/user_ai_comment.html?user_uid=581211525821554"
+    },
+    "text": "海主任你好！我是新入职不久的公务员，去年刚上岸，一直在局里的规划科上班，工作自觉兢兢业业，领导也比较满意，最近分管领导带我和单位几个同事一起参加一个饭局，应该是某个老板请客。大家都喝得比较高兴。饭局结束后老板给了领导一个包，说小小意思表达感谢！\n领导笑笑让我接了，回去路上领导突然对我说，你把东西处理一下。我回去后看了一下包，里面有十条。\n我从来没有遇见过这种情况，“处理”一下是什么意思？请海主任指点。",
+    "expired": true,
+    "anonymous": true,
+    "owner_detail": {
+      "questions_count": 6,
+      "estimated_join_time": ">1Y",
+      "status": "joined"
+    },
+    "owner_location": "山东"
+  },
+  "answer": {
+    "owner": {
+      "user_id": 581211525821554,
+      "name": "海主任",
+      "avatar_url": "https://images.zsxq.com/FqT3Pw0mqka-m5X_iyWJixqt2Tu_?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PR-d16hj4HLC9DkpA_sArFVlP8k=",
+      "description": "《县府办主任》作者，十年秘书工作经验，镇县市三级工作经验，基层的困惑，或许我可以给你更好的答案！",
+      "location": "山东",
+      "ai_comment_url": "https://wx.zsxq.com/mweb/activities/2024/user_ai_comment.html?user_uid=581211525821554"
+    },
+    "text": "职场不可避免地会收到各种各样的“礼物”，岗位权力越大，领导级别越高越是如此。有时候有些人送礼不分场合或者不拘小节，当着很多人的面就把礼物送给领导，不收吧，折了对方面子，还可能让对方下不来台；收了吧，这么多人看着，风险隐患比较大，这种情况下领导可能会先收下，事后安排人“处理”一下。\n很多职场新人没经历这种场面，不明白领导说的“处理”是什么意思，也把握不好其中的分寸感，稍不注意就可能把好事办砸。\n其实遇到这种情况不要怕，首先领导肯带你出席饭局，并且安排你去“处理”，本身就说明领导比较认可你，或者比较信任你，否则不会让你做这种比较隐秘的事情，你应该高兴才对。\n其次，遇到这种情况千万要擅自做主，因为“处理”包含的意思太多，最好私下单独请示领导如何“处理”比较好。因为“处理”二字至少有四种意思：\n一是用你做缓冲。领导想收对方礼物，但由于在场和知道的人太多不好直接收，这时领导为了彰显自己的“高风亮节”，往往会当众说“处理掉”等原则性的话，让大家误以为领导没收，“处理”的作用实际上就是障眼法和遮羞布。这时候你请示领导，如果领导态度不坚决或表现出犹豫的意思，你可以直接替领导做决定，比如说：要不找机会放您办公室，放车上或送家里也行，看您怎么方便？如果领导没反对，你相机行事就好了。\n二是把礼物“卖”出去。有些礼品不太合领导心意，比如领导不怎么喝酒，对方却送茅台；领导不会吸烟，对方偏送华子，这些礼品领导留着用不到，所以就会想“处理”掉，一般需要到“高档礼品回收”之类的店铺处理。这也有两种情况要考虑：\n第一种，定点处理。又分2种情况：1.店是领导自家的或亲戚朋友的，约等于自产自销；2.店是领导的上级的，就约等于借花献佛给更大的领导送礼。如果是这种情况，按照领导意思送过去就可以了，反正都是左兜掏右兜的事。\n第二种，随便处理。就是想变现，把礼品换成钱，而回收一般是打折的，这种情况最好找变现率比较高的店铺，此外还要考虑2种情况：1.一定要请示变现后钱怎么处理，是给领导，还是留作单位公用；2.如果给领导是按折后给，还是自己补足差价全款给，自己掂量好。\n三是东西大家分分。有的领导比较大方，客户馈赠礼品总会想到下属，让大家利益均沾，这种领导是很难得的。如果领导是这个意思，也要慎重处理，我的意见是：除非领导执意不想要或者只留一点尝尝，一定要给领导大头，你们分小头，这不仅是下属的态度问题，也显得你会做人，毕竟如果领导不发话，咱们毛都没有，现在起码能喝口汤，而且这次做得顺心了，没准下次还有汤喝，要懂得细水长流的道理，要不然以后领导不带你玩了。\n四是找机会退回去。请客无非3意思，要么有事相求，要么拉近关系，要么表示感谢，你要综合判断对方出于哪种目的。如果事后感谢，说明对方所托之事领导办成了，这时对方表达的心意领导多会笑纳；如果是另外两种就要看领导意思了，毕竟拿人的手短，没必要授人以柄。要领导态度明确就是不要，你就找机会给对方送过去，送还的时候想好怎么说，尽量委婉一些，双方都有台阶下，不要断了以后再合作的基础。\n至于其他情形就要具体问题具体分析了，如果当时没有理解透领导的意思，一定要当面请示，得到确切的指示后再进行下一步。总之把握一个大原则，让领导放心，让领导得利！\n多数情况领导收了就有想留的意思，所以请示的顺序最好为：先问领导是否留，不留是否卖，不卖是否分，不分再谈退。\n请示的时候也要留意领导的言外之意，如果态度模棱两可，大概率是有些话不好直接说出来，需要你代为表达，替领导做决定。\n比如领导说，找个礼品回收点处理了吧。\n你就问：我对这方面不太熟，领导有没有合适的店推荐一下？\n领导有定点就俺领导指示办，没有就自己看着办。\n所谓世事洞明皆学问，职场能力很重要，但久经职场你会发现，管理玩到最后终究四个字——人情世故，凡事多想几步，遇事多留一手才能永远不被动。"
+  },
+  "answered": true,
+  "silenced": false,
+  "latest_likes": [
+    {
+      "create_time": "2024-04-15T18:03:11.510+0800",
+      "owner": {
+        "user_id": 185281815252512,
+        "name": "幻想与现实",
+        "avatar_url": "https://images.zsxq.com/Froj1FS2CCU1jTn4APmknrekzRJ8?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SEg9SjNcQgVVXrRptoJF_GuhSZk=",
+        "number": 939
+      }
+    },
+    {
+      "create_time": "2023-10-19T14:39:45.023+0800",
+      "owner": {
+        "user_id": 581282885885144,
+        "name": "大川",
+        "avatar_url": "https://images.zsxq.com/Fv-6tH7Wh_vA3X-a5WRcOlhKdcum?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bmP7XMouo-pUl-AUMmAQ3DZu-JI=",
+        "number": 1005
+      }
+    },
+    {
+      "create_time": "2023-10-06T14:21:48.044+0800",
+      "owner": {
+        "user_id": 215518411525181,
+        "name": "我是豆沙",
+        "avatar_url": "https://images.zsxq.com/FpQ0GVgaH_jnlYQMARw5r0yeM04x?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iouoWGx5BSO5WdjvvxjWYelDAZQ=",
+        "number": 146
+      }
+    },
+    {
+      "create_time": "2023-09-30T08:32:06.778+0800",
+      "owner": {
+        "user_id": 88514441445122,
+        "name": "昱",
+        "avatar_url": "https://images.zsxq.com/FuuizWDpgppAiBAbOMJL5QELsZz7?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9juh5f6EY8B-lweb6qbu0nGOJEo=",
+        "number": 864
+      }
+    },
+    {
+      "create_time": "2023-09-22T13:32:15.627+0800",
+      "owner": {
+        "user_id": 182224424854822,
+        "name": "Lucas",
+        "avatar_url": "https://images.zsxq.com/Fvt_uy0ItolT_3nOo33bikWOcYyo?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PZHGYKHV47CuMe-GAO-4NgBinmo=",
+        "number": 933
+      }
+    },
+    {
+      "create_time": "2023-09-19T15:08:47.769+0800",
+      "owner": {
+        "user_id": 51142224841424,
+        "name": "木落尘",
+        "avatar_url": "https://images.zsxq.com/FiXgrc_kuKWs90XhtNJwIf8RLBK0?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSygnYi38GfeMlBTaEQ7Pj6qda4=",
+        "number": 594
+      }
+    },
+    {
+      "create_time": "2023-09-17T23:46:01.728+0800",
+      "owner": {
+        "user_id": 88818151252552,
+        "name": "飞鸿踏雪",
+        "avatar_url": "https://images.zsxq.com/FlTUn1rgs8_CgjZ4KRwZJuCjHsII?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WRGjGf7TfvKMVJ5pBhIPPtbhSHM=",
+        "number": 224
+      }
+    },
+    {
+      "create_time": "2023-09-13T13:12:14.064+0800",
+      "owner": {
+        "user_id": 581884811188544,
+        "name": "长路漫漫伴你闯",
+        "avatar_url": "https://images.zsxq.com/FsZN7M1qHSSvWfoyW01-GulfLNsU?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:61shHsMzkFwET1WbnT0aVRw4l78=",
+        "number": 897
+      }
+    },
+    {
+      "create_time": "2023-09-10T20:39:30.879+0800",
+      "owner": {
+        "user_id": 51141215885114,
+        "name": "云飞",
+        "avatar_url": "https://images.zsxq.com/FtQUuFmYO08Lrumo8ZA0RRkiIwAT?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:glVIhKXld7BtDI_72ifFc6W8reA=",
+        "number": 153
+      }
+    },
+    {
+      "create_time": "2023-09-10T17:17:00.428+0800",
+      "owner": {
+        "user_id": 244124212848841,
+        "name": "禾草鱼",
+        "avatar_url": "https://images.zsxq.com/Fv2dg9wkfREzEUaj5cU0pZBlhTB6?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-oauExKQg-JSbsjdFNWeXk-93Sg=",
+        "number": 605
+      }
+    }
+  ],
+  "likes_count": 19,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 19
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 0,
+  "reading_count": 1,
+  "readers_count": 670,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2023-09-09T15:08:35.110+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "职场不可避免地会收到各种各样的..."
+}

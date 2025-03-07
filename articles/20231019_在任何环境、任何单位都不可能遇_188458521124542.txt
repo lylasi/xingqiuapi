@@ -1,0 +1,244 @@
+主题ID：188458521124542
+标题：在任何环境、任何单位都不可能遇...
+发布时间：2023-10-19T19:30:39.760+0800
+作者：Unknown
+评论数：4
+
+正文内容：
+{
+  "topic_id": 188458521124542,
+  "group": {
+    "group_id": 48844242882218,
+    "name": "体制纵横",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhTVs_1ttbUAVWp0z1p4bwu_SdDY?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yfjsxv7V5QlEtMcb1bA_fjo9Sq4="
+  },
+  "type": "q&a",
+  "question": {
+    "questionee": {
+      "user_id": 581211525821554,
+      "name": "海主任",
+      "avatar_url": "https://images.zsxq.com/FqT3Pw0mqka-m5X_iyWJixqt2Tu_?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PR-d16hj4HLC9DkpA_sArFVlP8k=",
+      "description": "《县府办主任》作者，十年秘书工作经验，镇县市三级工作经验，基层的困惑，或许我可以给你更好的答案！",
+      "location": "山东",
+      "ai_comment_url": "https://wx.zsxq.com/mweb/activities/2024/user_ai_comment.html?user_uid=581211525821554"
+    },
+    "text": "你好海主任，今年年初我们科长被提拔，我接替了科长的位置。我们科里有5个人，两个新人，两个入职比我晚几年的副科长，还有一位再过几年就要退休的老同志，他原来是边缘科室的科长，去年转到我们科室，目前享受四调待遇。\n原来的科长是单位老资格，他主持科室工作时老同志还比较配合，我上位后可能资历比较浅，再加上级别没有他高，对我便不那么配合，上班迟到早退不说，还经常上班看电影、看小说，工作也是能推就推，反正不怎么干活。而且他偶尔还说闲话，扰乱军心，直接影响到我科长的权威。\n我跟他谈过几次，效果不太理想，请教海主任如何管理这种不求上进的老同志。",
+    "expired": true,
+    "anonymous": true,
+    "owner_detail": {
+      "questions_count": 6,
+      "estimated_join_time": ">1Y",
+      "status": "joined"
+    },
+    "owner_location": "山东"
+  },
+  "answer": {
+    "owner": {
+      "user_id": 581211525821554,
+      "name": "海主任",
+      "avatar_url": "https://images.zsxq.com/FqT3Pw0mqka-m5X_iyWJixqt2Tu_?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PR-d16hj4HLC9DkpA_sArFVlP8k=",
+      "description": "《县府办主任》作者，十年秘书工作经验，镇县市三级工作经验，基层的困惑，或许我可以给你更好的答案！",
+      "location": "山东",
+      "ai_comment_url": "https://wx.zsxq.com/mweb/activities/2024/user_ai_comment.html?user_uid=581211525821554"
+    },
+    "text": "在任何环境、任何单位都不可能遇见完全与自己情投意合的人，总会有自己喜欢的也会有自己讨厌的。\n体制内工作的特点是稳定性极高，被分配到一个单位后可能十几二十年都不会动地方，有的甚至在一个单位、一个科室干到退休。\n这种稳定性的好处在于：同单位的人即便再不对付，由于要朝夕相处，顾忌面子和名声，不到迫不得已是不会公然撕破脸的；坏处在于这种情况只能适应很难改变。\n话说回来，哪个单位没有几个你说的这种老板凳、老同志呢？他们年轻时也为单位奋斗过，挥洒过青春和汗水，现在要退了，身体硬件不比从前，脑袋也不如年轻时灵光，如果你还指望他们跟小年轻一样加班加点，吭哧吭哧写材料、填表格，你觉得可能么？即便工作交给他们，你能完全放心么？\n这跟责任心、事业心，党性、原则什么的扯不上边，纯粹就是新老更替、自然规律，就好比咱家爷爷奶奶这么大岁数了，你还指望他们像咱父母一样赚钱打拼也不现实，更不近人情对不对？\n处理这件事，包括其他躺平或半躺平类干部，一定要看清形势、对症施策，千万不能毛糙处理，否则损失最大的还是你。因为你要意识到两个问题：\n第一，老同志这种状态领导是知道并默许的。老同志原来也是资深科长，虽然是边缘科室，但资格、资历放在局里，即便是副局长也得敬他三分。老同志要退了，让出正科实职调了四调虚职，本身就是单位综合权衡的结果，调到你们科室也是一种照顾，美名其曰“重用”，安抚其让出实职的落差。此为其一。\n其二，你还得考虑到另外一种可能，你们老科长提拔了，让你接科长，这时单位提前将老同志调过来，会不会是觉得你比较年轻，担心你资历尚浅镇不住场子？或者你经验不足跟老同志形成互补？说白了，就是领导认可你的能力，但不放心你的资历，老同志的作用是定海神针。至于他干不干活，干多干少，领导是不甚在意的。\n如果你就是要求公平正义，非得要老同志跟年轻人一样要他干具体的活儿，他眼神又不好，效率又不高，出错了你还不好批评，何苦为难了他又为难了自己呢，对吧？\n第二，老同志对你的态度是会产生连锁影响的。职场你能获得的一切都有对价。老同志现在的清闲，对价就是牺牲掉自己在体制内的未来。他马上就要退休了，不出意外他退休前既不会升官，也不会提职，因而荣誉啦、优秀啦他也不会太在意，只想安安稳稳、舒舒心心等退休。\n如果你非拿你科长的权威压他，用小年轻的标准用他，老同志肯定不舒服，不顺心就会发牢骚。况且即便你看老同志不顺眼，想整他有什么招数呢？提拔你说不算，调动你没自主权，派活人家不干，最多面子上恶心下，真翻脸你还落下不尊重老同志的名声，他要是不要脸了，你更惨。\n体制内老同志的能量是很大的，由于他资历老，跟单位的科长啦、副职啦甚至老大都能直接对话的，而且这些中层、高层一般也会很重视他们的意见，一旦你们闹僵了，你以后能舒服了？\n一旦你不善待老同志、摆架子、不会团结同事等名声传出去，不仅工作处处掣肘，你在领导面心里的形象也要打折，搞不好你的前途都要画问号？用你所谓的公理赌上你的未来，你觉得值么？\n可是一旦你把老同志团结好了呢？他会到处说你好，时刻给你造势，对你今后进步是很有帮助的。\n所以，作为中层领导，一定要摆正位置，权衡利弊，学会用人之长，不能要求机械的公平。但老同志既然在岗，人还在你科室，当然是要发挥作用的，怎么用老同志就体现了你这个小领导的水平。老同志的长处在哪里呢？\n一是信息中转站。职场中层级之间的差距，除却权力大小，最重要的就是信息差。所谓一步先、步步先，职场早一步晚一步命运是孑然不同的。比如，几个各方面条件差不多的科长一同竞争副处，提前得知消息的跟提拔当天得知消息的，采取的措施、最后的结果肯定大不一样。\n再比如，领导层都是什么背景，谁跟谁是什么关系，单位里的人和事经历有什么过往，科室业务有哪些坑，跟对口科室、部门打交道应该注意什么，等等。这些信息对你研判形势、趋利避害有着相当重要的价值，但很多这样的信息，像冰山水下部分只有少数人知道，而老同志工作多年，对这些是门儿清的。\n老同志工作参与少，就会有大把的时间，有空就多找老干部聊天，捡好听的说，话题往你想了解的方向引，反正老同志要退了，忌讳就会少很多，只要你真诚以待，他们还是会跟你交实底的，有时随口提及的信息，可能就能帮你避雷。\n比如，有的领导表面看似和善，实则心胸狭窄，哪句话不小心就会被记住；有的领导说人话不办人事，如果你抱他大腿没准竹篮打水一场空；有的领导好使阴招损招，有时单位会有各种信息，有利的、不好的，提前知道都能有效应对。\n这种时候你可以鼓励他多串门，他这种“人畜无害”的老资格，老人们都会卖个面子，说几句掏心窝子的话，这些信息可能你挖空心思都搞不来，所以用好了老同志就是最合格的“线人”？\n二是官场红宝书。老同志是个宝，经验教训不可少。首先，这个老同志单位工作了一辈子，四调止步，算不得好也算不得差，他的经历本身就极具参考价值。\n因为单位没混上去的，不一定没有能力，能到四调也算不得糊涂虫，他们对单位那一套规则也洞若观火，只是自己缺乏背景，或者不善于结纳，或者缺乏一些机缘没能上去。如果他以自己几十年的心得体会，适当点拨一下你，就可以节省很多成长试错的时间了。\n此外，老同志知道很多野史秘闻，特别是领导的成长史、进步史，不就是活脱脱的官场百科全书，比如某领导凭借婚姻上位的，某领导凭借搞关系上位的，某领导凭送礼上位的，某领导凭业务能力上位的等，这些经验咱不定能全盘复制，却可以借鉴吸收融汇贯通。\n再比如，有些失足领导犯下的错误，是性格原因、选择原因、站队原因，还是作风原因等，缘由始末很有现实意义，反正我平时跟老同志聊天就喜欢聊这些，每次都极有收获。\n要知道这些都是花钱都买不到的珍贵素材！\n当然了，时代在变、规则在变、领导在变，所有的经验教训都需要自己重新整合吸收，只要你悟性足够高，老同志何尝不是你事业进步的好帮手！\n三是低调社会人。体制内说白了就是人情社会，所有工作本质上都是人的工作，搞定了人工作很难干得差。你现在是科长，需要同形形色色的人打交道，你的资历有些时候是不足以服人的，肯定也有挠头的事。\n老同志在单位这么些年，只要为人不是太不堪，多少会有些人情在。其他科室的同志、别的单位的领导，有些也不是那么爽利，你碍于身份、资历搞不定，可以试试请他出面，没准那就是人过去的老相识，人情捎带就做了，你也能链接上他的人脉。\n我以前管过一个老板凳，平时不显山不露水，有次吃饭一个大局的副职主动过来敬酒，原来老板凳是他的老科长。老同志这些兵虽说不一定全买他的账，但不过分的小要求、小情面多少还是会给的，老同志跟你处得好了，你央求几句，卖个老脸要点好处、资源，行个方便还是好使的。\n四是顶级背锅侠。现在体制内追责问责比较严重，单位权力越大责任越大，有些时候纪委监察部门还要派任务，每月必须约谈几次、警告几人等，这些不大不小的处分有时候分到头上，你怎么权衡？年轻人背吧担心影响前途，真出问题影响积极性不说，还骂你一辈子，而不背你这个科长就不好干。\n这时候老同志作用就发挥出来了，他马上要退休了，进步没想了，很多身外之物也看淡了，关系到位你做做老同志工作，把雷顶下来，在别的方面给找点好处，只要不是记大过之类影响工资、退休、福利的处分，老同志一般也不会拒绝。\n况且你的科室是老同志最后一站，干了一辈子总要混点人情，感情到位了有些小错老同志可能会主动揽在身上，这对年轻人是莫大的恩惠。\n所以，我建议对这个老同志客气一点、尊重一点，注意搞好关系，有事多商量，没事多聊天，有酒局就带上，具体的活少派点，协调的活可以安排，大家优势互补互相理解，都发挥了自己的比较优势团队才和谐。"
+  },
+  "answered": true,
+  "silenced": false,
+  "latest_likes": [
+    {
+      "create_time": "2024-02-17T11:12:24.853+0800",
+      "owner": {
+        "user_id": 215285245485581,
+        "name": "Ludwig丶",
+        "avatar_url": "https://images.zsxq.com/FmhyjxGUw9zR_e73ItNbx5fWUd4N?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zb-lOYtyxeUqBta0tKRd7tGdG0A=",
+        "number": 1169
+      }
+    },
+    {
+      "create_time": "2023-10-29T11:20:22.021+0800",
+      "owner": {
+        "user_id": 421122182155148,
+        "name": "向日葵",
+        "avatar_url": "https://images.zsxq.com/FnJ4Jq-5A9f4DV7M8OW6ePZ9UsOy?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GwhNvWkDHM8GqFG1tLn4JLuY4kA=",
+        "number": 975
+      }
+    },
+    {
+      "create_time": "2023-10-27T11:05:22.328+0800",
+      "owner": {
+        "user_id": 88818151252552,
+        "name": "飞鸿踏雪",
+        "avatar_url": "https://images.zsxq.com/FlTUn1rgs8_CgjZ4KRwZJuCjHsII?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WRGjGf7TfvKMVJ5pBhIPPtbhSHM=",
+        "number": 224
+      }
+    },
+    {
+      "create_time": "2023-10-27T01:24:09.514+0800",
+      "owner": {
+        "user_id": 548244258888584,
+        "name": "Dragon",
+        "avatar_url": "https://images.zsxq.com/Fjk3veJDrDEOPnFIJelEyehP92Ft?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hhAHlKwpSVsAVwOMMRwwHLgcYuA=",
+        "number": 843
+      }
+    },
+    {
+      "create_time": "2023-10-23T14:58:48.536+0800",
+      "owner": {
+        "user_id": 581884811188544,
+        "name": "长路漫漫伴你闯",
+        "avatar_url": "https://images.zsxq.com/FsZN7M1qHSSvWfoyW01-GulfLNsU?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:61shHsMzkFwET1WbnT0aVRw4l78=",
+        "number": 897
+      }
+    },
+    {
+      "create_time": "2023-10-23T13:38:22.573+0800",
+      "owner": {
+        "user_id": 51141215885114,
+        "name": "云飞",
+        "avatar_url": "https://images.zsxq.com/FtQUuFmYO08Lrumo8ZA0RRkiIwAT?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:glVIhKXld7BtDI_72ifFc6W8reA=",
+        "number": 153
+      }
+    },
+    {
+      "create_time": "2023-10-22T10:29:46.945+0800",
+      "owner": {
+        "user_id": 581542222852284,
+        "name": "Kk",
+        "avatar_url": "https://images.zsxq.com/FtVCPdl0uPVX7lfSzVC8KQwKdC7t?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BNny1E-Ht4PA2e2dp2HJpmfOZos=",
+        "number": 752
+      }
+    },
+    {
+      "create_time": "2023-10-21T21:05:29.775+0800",
+      "owner": {
+        "user_id": 185551555885442,
+        "name": "是明广不是广明",
+        "avatar_url": "https://images.zsxq.com/FowgqFkZGqurLcaJEcOgPRo4joRU?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R4TYtShJ50q9lxkH6Ap_pYZ1DII=",
+        "number": 275
+      }
+    },
+    {
+      "create_time": "2023-10-20T19:54:01.906+0800",
+      "owner": {
+        "user_id": 118542545885582,
+        "name": "钜子",
+        "avatar_url": "https://images.zsxq.com/FpTa7ju8crYDtW0UeoRLxM1J_IU-?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qzcH6uRC6wEOS1RaigSEIInVrQ4=",
+        "number": 608
+      }
+    },
+    {
+      "create_time": "2023-10-20T11:10:53.279+0800",
+      "owner": {
+        "user_id": 241845525844841,
+        "name": "欢乐多",
+        "avatar_url": "https://images.zsxq.com/FpTa7ju8crYDtW0UeoRLxM1J_IU-?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qzcH6uRC6wEOS1RaigSEIInVrQ4=",
+        "number": 671
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 188145485141242,
+      "create_time": "2023-10-19T19:36:15.648+0800",
+      "owner": {
+        "user_id": 28458455185811,
+        "name": "不做韭菜的小青蛙",
+        "avatar_url": "https://images.zsxq.com/Ftl3a4Td7-rvqVo1L3YQ1JPwT6iV?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ul9XuO4LpwEepT3FbzFWjv3Vn4I=",
+        "location": "山东"
+      },
+      "text": "就喜欢跟老同志聊天，野史秘闻根本听不完[呲牙]",
+      "likes_count": 2,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 588451585115824,
+      "create_time": "2023-10-19T20:51:15.610+0800",
+      "owner": {
+        "user_id": 214742878,
+        "name": "匿名用户",
+        "avatar_url": "https://file.zsxq.com/anonymous_avatar.png",
+        "location": "山东"
+      },
+      "text": "海主任分析太到位了！以后尊重老同志！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 811428214541512,
+      "create_time": "2023-10-19T22:41:46.210+0800",
+      "owner": {
+        "user_id": 581282885885144,
+        "name": "大川",
+        "avatar_url": "https://images.zsxq.com/Fv-6tH7Wh_vA3X-a5WRcOlhKdcum?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bmP7XMouo-pUl-AUMmAQ3DZu-JI=",
+        "location": "北京"
+      },
+      "text": "海主任洋洋洒洒写了这么多，每个字，都是真知灼言。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 211422425555451,
+      "create_time": "2023-10-26T17:59:23.305+0800",
+      "owner": {
+        "user_id": 418584858128588,
+        "name": "冬",
+        "avatar_url": "https://images.zsxq.com/FpRq67zdP1Me6HpFrXqZvmt_fa9v?e=1746028799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AY5sga9cXsjZ0WhAdP4v_6dsnVw=",
+        "location": "北京"
+      },
+      "text": "什么时候更新啊？",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 18,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 18
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 4,
+  "reading_count": 1,
+  "readers_count": 750,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2023-10-19T19:30:39.760+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "在任何环境、任何单位都不可能遇..."
+}
+
+评论列表：
+
+评论 1:
+评论者：不做韭菜的小青蛙
+评论时间：2023-10-19T19:36:15.648+0800
+评论内容：就喜欢跟老同志聊天，野史秘闻根本听不完[呲牙]
+
+评论 2:
+评论者：匿名用户
+评论时间：2023-10-19T20:51:15.610+0800
+评论内容：海主任分析太到位了！以后尊重老同志！
+
+评论 3:
+评论者：大川
+评论时间：2023-10-19T22:41:46.210+0800
+评论内容：海主任洋洋洒洒写了这么多，每个字，都是真知灼言。
+
+评论 4:
+评论者：冬
+评论时间：2023-10-26T17:59:23.305+0800
+评论内容：什么时候更新啊？
